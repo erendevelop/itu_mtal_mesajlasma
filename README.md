@@ -1,2 +1,3 @@
-# itu_mtal_mesajlasma
-This project work is for my school's members to text in each other. It has also a social media app system in it.
+## This project is a texting app for my school's students.
+- And also this app has a social media system in it.
+- ✔ I am still working on it so it's a pleasure to be helped!
